@@ -1,4 +1,6 @@
-﻿<!-- Begin Slider Area -->
+﻿@model List<string>
+
+<!-- Begin Slider Area -->
 <div class="slider-area">
     <!-- Main Slider -->
     <div class="swiper-container main-slider swiper-arrow with-bg_white">
@@ -82,7 +84,22 @@
     <div class="container">
         <div class="shipping-bg">
             <div class="row shipping-wrap">
-                <div class="col-lg-4 col-md-6">
+                @foreach (var item in Model)
+                {
+                    <div class="col-lg-4 col-md-6">
+                        <div class="shipping-item">
+                            <div class="shipping-img">
+                                <img src="~/assets/images/website-images//car.png"
+                                     alt="Shipping Icon" />
+                            </div>
+                            <div class="shipping-content">
+                                <h2 class="title">@item</h2>
+                                <p class="short-desc mb-0">Capped at $319 per order</p>
+                            </div>
+                        </div>
+                    </div>
+                }
+                @*<div class="col-lg-4 col-md-6">
                     <div class="shipping-item">
                         <div class="shipping-img">
                             <img src="~/assets/images/website-images//car.png"
@@ -117,7 +134,7 @@
                             <p class="short-desc mb-0">Friendly & Supper Services</p>
                         </div>
                     </div>
-                </div>
+                </div>*@
             </div>
         </div>
     </div>
