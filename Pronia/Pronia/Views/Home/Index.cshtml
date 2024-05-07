@@ -1,4 +1,5 @@
-﻿@model List<string>
+﻿@using Pronia.Models
+@model List<GetCategoryVM>
 
 <!-- Begin Slider Area -->
 <div class="slider-area">
@@ -84,22 +85,20 @@
     <div class="container">
         <div class="shipping-bg">
             <div class="row shipping-wrap">
-                @foreach (var item in Model)
-                {
-                    <div class="col-lg-4 col-md-6">
+                
+                <div class="col-lg-4 col-md-6">
                         <div class="shipping-item">
                             <div class="shipping-img">
                                 <img src="~/assets/images/website-images//car.png"
                                      alt="Shipping Icon" />
                             </div>
                             <div class="shipping-content">
-                                <h2 class="title">@item</h2>
+                                <h2 class="title">Shipping</h2>
                                 <p class="short-desc mb-0">Capped at $319 per order</p>
                             </div>
                         </div>
-                    </div>
-                }
-                @*<div class="col-lg-4 col-md-6">
+                </div>
+                <div class="col-lg-4 col-md-6">
                     <div class="shipping-item">
                         <div class="shipping-img">
                             <img src="~/assets/images/website-images//car.png"
@@ -134,7 +133,7 @@
                             <p class="short-desc mb-0">Friendly & Supper Services</p>
                         </div>
                     </div>
-                </div>*@
+                </div>
             </div>
         </div>
     </div>
@@ -151,7 +150,15 @@
                 <ul class="nav product-tab-nav tab-style-1"
                     id="myTab"
                     role="tablist">
-                    <li class="nav-item" role="presentation">
+                    @foreach (var i in Model)
+                    {
+                        <li class="nav-item" role="presentation">
+                            <a>
+                                @i.Name
+                            </a>
+                        </li>
+                    }
+                    @* <li class="nav-item" role="presentation">
                         <a class="active"
                            id="featured-tab"
                            data-bs-toggle="tab"
@@ -171,7 +178,7 @@
                            aria-selected="false">
                             Bestseller
                         </a>
-                    </li>
+                    </li> *@
                     <li class="nav-item" role="presentation">
                         <a id="latest-tab"
                            data-bs-toggle="tab"
