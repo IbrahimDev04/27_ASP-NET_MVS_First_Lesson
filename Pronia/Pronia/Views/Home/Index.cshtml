@@ -1,22 +1,24 @@
 ﻿@using Pronia.Models
-@model List<GetCategoryVM>
+@model List<GetSliderVM>
 
 <!-- Begin Slider Area -->
 <div class="slider-area">
     <!-- Main Slider -->
     <div class="swiper-container main-slider swiper-arrow with-bg_white">
         <div class="swiper-wrapper">
-            <div class="swiper-slide animation-style-01">
+            @foreach (var item in Model)
+            {
+                <div class="swiper-slide animation-style-01">
                 <div class="slide-inner style-1 bg-height"
                      data-bg-image="assets/images/slider/bg/1-1.jpg">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-6 order-2 order-lg-1 align-self-center">
                                 <div class="slide-content text-black">
-                                    <span class="offer">65% Off</span>
-                                    <h2 class="title">New Plant</h2>
+                                    <span class="offer">@item.Discount % Off</span>
+                                    <h2 class="title">@item.Title</h2>
                                     <p class="short-desc">
-                                        Pronia, With 100% Natural, Organic & Plant Shop.
+                                        @item.SubTitle
                                     </p>
                                     <div class="btn-wrap">
                                         <a class="btn btn-custom-size xl-size btn-pronia-primary"
@@ -28,7 +30,7 @@
                                 <div class="inner-img">
                                     <div class="scene fill">
                                         <div class="expand-width" data-depth="0.2">
-                                            <img src="~/assets/images/website-images//1-1-524x617.png"
+                                            <img src="@item.ImageUrl"
                                                  alt="Inner Image" />
                                         </div>
                                     </div>
@@ -38,38 +40,7 @@
                     </div>
                 </div>
             </div>
-            <div class="swiper-slide animation-style-01">
-                <div class="slide-inner style-1 bg-height"
-                     data-bg-image="assets/images/slider/bg/1-1.jpg">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-6 order-2 order-lg-1 align-self-center">
-                                <div class="slide-content text-black">
-                                    <span class="offer">65% Off</span>
-                                    <h2 class="title">New Plant</h2>
-                                    <p class="short-desc">
-                                        Pronia, With 100% Natural, Organic & Plant Shop.
-                                    </p>
-                                    <div class="btn-wrap">
-                                        <a class="btn btn-custom-size xl-size btn-pronia-primary"
-                                           href="shop.html">Discover Now</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-8 offset-md-2 offset-lg-0 order-1 order-lg-2">
-                                <div class="inner-img">
-                                    <div class="scene fill">
-                                        <div class="expand-width" data-depth="0.2">
-                                            <img src="~/assets/images/website-images//1-2-524x617.png"
-                                                 alt="Inner Image" />
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            }
         </div>
         <!-- Add Pagination -->
         <div class="swiper-pagination d-md-none"></div>
@@ -150,14 +121,14 @@
                 <ul class="nav product-tab-nav tab-style-1"
                     id="myTab"
                     role="tablist">
-                    @foreach (var i in Model)
+                    @* @foreach (var i in Model)
                     {
                         <li class="nav-item" role="presentation">
                             <a>
                                 @i.Name
                             </a>
                         </li>
-                    }
+                    } *@
                     @* <li class="nav-item" role="presentation">
                         <a class="active"
                            id="featured-tab"

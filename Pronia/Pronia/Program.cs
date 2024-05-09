@@ -7,6 +7,8 @@ builder.Services.AddDbContext<ProniaContext>();
 var app = builder.Build();
 
 app.UseStaticFiles();
+
+app.MapControllerRoute("admin", "{area:exists}/{controller=slider}/{action=index}/{id?}");
 app.MapControllerRoute("default", "{controller=home}/{action=index}/{id?}");
 
 app.Run();
