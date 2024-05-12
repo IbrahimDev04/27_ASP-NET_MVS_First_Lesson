@@ -3,76 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\pronia\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|solutionrelative:pronia\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\27_asp-net_mvs_first_lesson\\pronia\\pronia\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|solutionrelative:pronia\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\pronia\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|solutionrelative:pronia\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\27_asp-net_mvs_first_lesson\\pronia\\pronia\\viewmodels\\product\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|solutionrelative:pronia\\viewmodels\\product\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\pronia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|solutionrelative:pronia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\27_asp-net_mvs_first_lesson\\pronia\\pronia\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|solutionrelative:pronia\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\27_asp-net_mvs_first_lesson\\pronia\\pronia\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|solutionrelative:pronia\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\27_asp-net_mvs_first_lesson\\pronia\\pronia\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|solutionrelative:pronia\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\27_asp-net_mvs_first_lesson\\pronia\\pronia\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\pronia\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|solutionrelative:pronia\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\pronia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|solutionrelative:pronia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\pronia\\dataaccesslayer\\proniacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|solutionrelative:pronia\\dataaccesslayer\\proniacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\pronia\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|solutionrelative:pronia\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\27_asp-net_mvs_first_lesson\\pronia\\pronia\\viewmodels\\slider\\getslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|solutionrelative:pronia\\viewmodels\\slider\\getslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\27_asp-net_mvs_first_lesson\\pronia\\pronia\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|solutionrelative:pronia\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\27_asp-net_mvs_first_lesson\\pronia\\pronia\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|solutionrelative:pronia\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\27_asp-net_mvs_first_lesson\\pronia\\pronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|solutionrelative:pronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\27_asp-net_mvs_first_lesson\\pronia\\pronia\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|solutionrelative:pronia\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\pronia\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|solutionrelative:pronia\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\pronia\\viewmodels\\categories\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|solutionrelative:pronia\\viewmodels\\categories\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\pronia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|solutionrelative:pronia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\pronia\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|solutionrelative:pronia\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\27_asp-net_mvs_first_lesson\\pronia\\pronia\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9128FE6C-0543-414B-B819-A0345D6C127B}|Pronia\\Pronia.csproj|solutionrelative:pronia\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,11 +30,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pronia\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Pronia\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T10:09:58.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Pronia\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Pronia\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:07:58.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pronia\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Pronia\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAAEEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T10:01:42.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\ViewModels\\Product\\CreateProductVM.cs",
+              "RelativeDocumentMoniker": "Pronia\\ViewModels\\Product\\CreateProductVM.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\ViewModels\\Product\\CreateProductVM.cs",
+              "RelativeToolTip": "Pronia\\ViewModels\\Product\\CreateProductVM.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:52:39.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
               "RelativeDocumentMoniker": "Pronia\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
@@ -95,227 +95,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-09T15:13:55.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SliderController.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeDocumentMoniker": "Pronia\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeToolTip": "Pronia\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:05:21.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pronia\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeToolTip": "Pronia\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAAA8AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T14:12:20.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Pronia\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Pronia\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAABoAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T13:38:47.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pronia\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Pronia\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-06T13:22:01.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Pronia\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Pronia\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T13:41:43.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Pronia\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Pronia\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-06T13:23:29.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProniaContext.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\DataAccessLayer\\ProniaContext.cs",
-              "RelativeDocumentMoniker": "Pronia\\DataAccessLayer\\ProniaContext.cs",
-              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\DataAccessLayer\\ProniaContext.cs",
-              "RelativeToolTip": "Pronia\\DataAccessLayer\\ProniaContext.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAsAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T13:48:36.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Pronia\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Pronia\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T14:08:48.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Pronia\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Models\\Category.cs",
-              "RelativeToolTip": "Pronia\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T13:56:26.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Pronia\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Pronia\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T14:09:03.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GetSliderVM.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\ViewModels\\Slider\\GetSliderVM.cs",
-              "RelativeDocumentMoniker": "Pronia\\ViewModels\\Slider\\GetSliderVM.cs",
-              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\ViewModels\\Slider\\GetSliderVM.cs",
-              "RelativeToolTip": "Pronia\\ViewModels\\Slider\\GetSliderVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T14:57:31.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Pronia\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Pronia\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAGIAAAAAAAAAAAAAAG8AAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T14:03:57.129Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Program.cs",
-              "RelativeDocumentMoniker": "Pronia\\Program.cs",
-              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Program.cs",
-              "RelativeToolTip": "Pronia\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T14:04:22.181Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "GetCategoryVM.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\ViewModels\\Categories\\GetCategoryVM.cs",
-              "RelativeDocumentMoniker": "Pronia\\ViewModels\\Categories\\GetCategoryVM.cs",
-              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\ViewModels\\Categories\\GetCategoryVM.cs",
-              "RelativeToolTip": "Pronia\\ViewModels\\Categories\\GetCategoryVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T14:37:39.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Pronia\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "Pronia\\Models\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T13:57:24.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "Pronia\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "Pronia\\Views\\Home\\About.cshtml",
-              "ViewState": "AQIAACoAAAAAAAAAAAAYwDEAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-06T13:34:39.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Pronia\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Pronia\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-06T13:12:13.711Z",
               "EditorCaption": ""
             }
           ]

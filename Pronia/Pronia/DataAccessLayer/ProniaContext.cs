@@ -10,6 +10,8 @@ namespace Pronia.DataAccessLayer
         }
         public DbSet<Category> Categories { get; set; }
         public DbSet<Slider> Sliders { get; set; }
+        public DbSet<Product> Products { get; set; }
+        public DbSet<ProductImage> ProductImages { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer("Server=ZEGA;Database=ProniaDb;Trusted_Connection=True;TrustServerCertificate=True;"); 

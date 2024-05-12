@@ -3225,6 +3225,30 @@
       "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizr-3.11.2.min.js"
     },
     {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\wwwroot\\imgs\\products\\31ycf0gh.bdk.jpeg",
+      "PackagePath": "staticwebassets\\imgs\\products\\31ycf0gh.bdk.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\wwwroot\\imgs\\products\\3e4c2yfd.2ou.jpeg",
+      "PackagePath": "staticwebassets\\imgs\\products\\3e4c2yfd.2ou.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\wwwroot\\imgs\\products\\glqlf2yu.izs.jpeg",
+      "PackagePath": "staticwebassets\\imgs\\products\\glqlf2yu.izs.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\wwwroot\\imgs\\products\\j4tpffbr.pg1.jpeg",
+      "PackagePath": "staticwebassets\\imgs\\products\\j4tpffbr.pg1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\wwwroot\\imgs\\products\\k1fabx5z.vpu.jpeg",
+      "PackagePath": "staticwebassets\\imgs\\products\\k1fabx5z.vpu.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\CodeAcademy\\27_ASP-NET_MVS_First_Lesson\\Pronia\\Pronia\\wwwroot\\imgs\\products\\wm23lhcc.jua.jpeg",
+      "PackagePath": "staticwebassets\\imgs\\products\\wm23lhcc.jua.jpeg"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Pronia.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
