@@ -23,6 +23,9 @@ namespace Pronia.ViewModels.Product
         public IFormFile ImageFile { get; set; }
 
         [Required]
+        public IEnumerable<IFormFile> ImagesFile { get; set; }
+
+        [Required]
         public float Raiting { get; set; }
     }
 }

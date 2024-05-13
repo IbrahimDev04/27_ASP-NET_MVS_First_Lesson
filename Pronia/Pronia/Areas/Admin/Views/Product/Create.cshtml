@@ -36,5 +36,10 @@
         <input asp-for="ImageFile" class="form-control" accept="image/*" name="ImageFile">
         <span asp-validation-for="ImageFile" class="text-danger"></span>
     </div>
+    <div class="mb-3">
+        <label asp-for="ImagesFile"></label>
+        <input asp-for="ImagesFile" class="form-control" accept="image/*" name="ImagesFile">
+        <span asp-validation-for="ImagesFile" class="text-danger"></span>
+    </div>
     <button type="submit" class="btn btn-primary">Submit</button>
 </form>
