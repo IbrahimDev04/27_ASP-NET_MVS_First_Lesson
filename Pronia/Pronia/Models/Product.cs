@@ -10,8 +10,8 @@
         public string ImageUrl { get; set; }
         public float Raiting { get; set; }
 
-        public ICollection<Category> Categories { get; set; }
-        public ICollection<ProductImage> Images { get; set;}
+        public ICollection<Category>? Categories { get; set; }
+        public ICollection<ProductImage>? Images { get; set;}
 
     }
 }

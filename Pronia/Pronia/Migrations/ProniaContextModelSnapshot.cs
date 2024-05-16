@@ -52,6 +52,9 @@ namespace Pronia.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<DateTime>("UpdateTime")
+                        .HasColumnType("datetime2");
+
                     b.Property<bool>("isDeleted")
                         .HasColumnType("bit");
 
@@ -94,6 +97,9 @@ namespace Pronia.Migrations
                     b.Property<int>("StockCount")
                         .HasColumnType("int");
 
+                    b.Property<DateTime>("UpdateTime")
+                        .HasColumnType("datetime2");
+
                     b.Property<bool>("isDeleted")
                         .HasColumnType("bit");
 
@@ -119,6 +125,9 @@ namespace Pronia.Migrations
 
                     b.Property<int>("ProductId")
                         .HasColumnType("int");
+
+                    b.Property<DateTime>("UpdateTime")
+                        .HasColumnType("datetime2");
 
                     b.Property<bool>("isDeleted")
                         .HasColumnType("bit");
@@ -157,6 +166,9 @@ namespace Pronia.Migrations
                         .IsRequired()
                         .HasMaxLength(32)
                         .HasColumnType("nvarchar(32)");
+
+                    b.Property<DateTime>("UpdateTime")
+                        .HasColumnType("datetime2");
 
                     b.Property<bool>("isDeleted")
                         .HasColumnType("bit");

@@ -32,6 +32,15 @@
         <span asp-validation-for="Raiting" class="text-danger"></span>
     </div>
     <div class="mb-3">
+        <label asp-for="CategoryIds"></label>
+        <select asp-for="CategoryIds" class="mb-3 form-control">
+            @foreach (var item in ViewBag.Categories)
+            {
+                <option value="@item.Id">@item.Name</option>
+            }
+        </select>
+    </div>
+    <div class="mb-3">
         <label asp-for="ImageFile"></label>
         <input asp-for="ImageFile" class="form-control" accept="image/*" name="ImageFile">
         <span asp-validation-for="ImageFile" class="text-danger"></span>

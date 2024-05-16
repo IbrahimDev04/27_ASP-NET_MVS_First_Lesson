@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Pronia.DataAccessLayer;
-using Pronia.ViewModels.Categories;
 using Pronia.ViewModels.Slider;
 
 namespace Pronia.Controllers

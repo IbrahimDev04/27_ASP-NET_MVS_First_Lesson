@@ -31,6 +31,7 @@ namespace Pronia.Areas.Admin.Controllers
         [HttpGet]
         public async Task<IActionResult> Create()
         {
+            ViewBag.Categories = await _context.Categories.ToListAsync();
             return View();
         }
 
@@ -80,11 +81,19 @@ namespace Pronia.Areas.Admin.Controllers
                 StockCount = cVM.StockCount,
                 Raiting = cVM.Raiting,
                 Discount = cVM.Discount,
-                CreatedTime = DateTime.Now,
                 ImageUrl = Path.Combine("imgs", "products", fileName),
-                isDeleted = false,
-                Images = new List<ProductImage>()
+                Images = new List<ProductImage>(),
+                Categories = new List<Category>()
+
             };
+
+            //foreach (var item in cVM.CategoryIds)
+            //{
+            //    product.Categories.Add(new Category
+            //    {
+            //        Name = cVM.Name
+            //    });
+            //}
 
             foreach (var item in cVM.ImagesFile)
             {
@@ -94,14 +103,38 @@ namespace Pronia.Areas.Admin.Controllers
                     ImageUrl = Path.Combine("imgs", "products", imgFileName),
                     CreatedTime = DateTime.Now,
                     isDeleted = false,
-                }); ;
+                }); 
             }
+
+            
+            
+
+
 
 
             await _context.Products.AddAsync(product);
 
             await _context.SaveChangesAsync();
             
+            return RedirectToAction(nameof(Index));
+        }
+        public async Task<IActionResult> Delete(int? id)
+        {
+            if (id == null || id < 1) return BadRequest();
+
+            var item = await _context.Products.Include(x => x.Images).FirstOrDefaultAsync(x => x.Id == id);
+
+            if (item == null) return NotFound();
+
+            item.ImageUrl.Delete(Path.Combine(_env.WebRootPath));
+
+            foreach (ProductImage item1 in item.Images)
+            {
+                item1.ImageUrl.Delete(Path.Combine(_env.WebRootPath));
+            }
+            _context.Remove(item);
+            await _context.SaveChangesAsync();
+
             return RedirectToAction(nameof(Index));
         }
 

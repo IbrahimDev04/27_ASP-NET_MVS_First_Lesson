@@ -1,6 +1,6 @@
 ﻿@model UpdateSliderVM
 
-<form method="post">
+<form method="post" enctype="multipart/form-data">
     <div class="mb-3">
         <label asp-for="Title">Title</label>
         <input asp-for="Title" type="text" class="form-control" name="Title">
@@ -17,9 +17,9 @@
         <span asp-validation-for="Discount" class="text-danger"></span>
     </div>
     <div class="mb-3">
-        <label asp-for="ImageUrl">ImageUrl</label>
-        <input asp-for="ImageUrl" type="text" class="form-control" name="ImageUrl">
-        <span asp-validation-for="ImageUrl" class="text-danger"></span>
+        <label asp-for="ImageFile">ImageUrl</label>
+        <input asp-for="ImageFile" accept="image*/" class="form-control" name="ImageFile">
+        <span asp-validation-for="ImageFile" class="text-danger"></span>
     </div>
     <button type="submit" class="btn btn-primary">Submit</button>
 </form>

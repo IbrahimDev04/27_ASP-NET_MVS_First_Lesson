@@ -18,5 +18,11 @@
             
             return filename + ext;
         }
+
+        public static async Task Delete(this string FileName, string path)
+        {
+            File.Delete(Path.Combine(path, FileName));
+
+        }
     }
 }

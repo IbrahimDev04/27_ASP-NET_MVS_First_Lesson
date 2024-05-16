@@ -14,6 +14,6 @@ namespace Pronia.ViewModels.Slider
         public int Discount { get; set; }
 
         [Required]
-        public string ImageUrl { get; set; }
+        public IFormFile ImageFile { get; set; }
     }
 }

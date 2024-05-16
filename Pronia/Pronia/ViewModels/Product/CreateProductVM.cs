@@ -19,6 +19,10 @@ namespace Pronia.ViewModels.Product
         [Required]
         public int StockCount { get; set; }
 
+
+        [Required]
+        public int[] CategoryIds { get; set; }
+
         [Required]
         public IFormFile ImageFile { get; set; }
 
