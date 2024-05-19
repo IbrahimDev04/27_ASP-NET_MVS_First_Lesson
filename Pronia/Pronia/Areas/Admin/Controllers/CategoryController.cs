@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Pronia.DataAccessLayer;
 using Pronia.Extensions;
@@ -7,6 +8,7 @@ using Pronia.ViewModels.Category;
 namespace Pronia.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "Admin, Member")]
     public class CategoryController(ProniaContext _context) : Controller
     {
         

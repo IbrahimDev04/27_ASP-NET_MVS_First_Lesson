@@ -1,9 +1,10 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using Pronia.Models;
 
 namespace Pronia.DataAccessLayer
 {
-    public class ProniaContext : DbContext
+    public class ProniaContext : IdentityDbContext<AppUser>
     {
         public ProniaContext(DbContextOptions options) : base(options)
         {
@@ -12,21 +13,25 @@ namespace Pronia.DataAccessLayer
         public DbSet<Slider> Sliders { get; set; }
         public DbSet<Product> Products { get; set; }
         public DbSet<ProductImage> ProductImages { get; set; }
+        public DbSet<AppUser> AppUsers { get; set; }
 
         public override Task<int> SaveChangesAsync(bool acceptAllChangesOnSuccess, CancellationToken cancellationToken = default)
         {
             foreach (var entry in ChangeTracker.Entries())
             {
-                switch (entry.State)
+                if (entry.Entity is BaseEntity baseEntity)
                 {
-                    case EntityState.Added:
-                        ((BaseEntity)entry.Entity).CreatedTime = DateTime.Now;
-                        ((BaseEntity)entry.Entity).isDeleted = false;
-                        break;
-                    case EntityState.Modified:
-                        ((BaseEntity)entry.Entity).UpdateTime = DateTime.Now;
-                        break;
-                        // Handle other cases like EntityState.Modified if needed
+                    switch (entry.State)
+                    {
+                        case EntityState.Added:
+                            ((BaseEntity)entry.Entity).CreatedTime = DateTime.Now;
+                            ((BaseEntity)entry.Entity).isDeleted = false;
+                            break;
+                        case EntityState.Modified:
+                            ((BaseEntity)entry.Entity).UpdateTime = DateTime.Now;
+                            break;
+                            // Handle other cases like EntityState.Modified if needed
+                    }
                 }
             }
 
